@@ -49,7 +49,7 @@ class HomeScreen extends StatelessWidget {
                   .copyWith(fontWeight: FontWeight.w500, color: Colors.black),
             ),
             const Text(
-              "best Outfits for you",
+              "Cheap Outfits for you",
               style: TextStyle(fontSize: 18),
             ),
             const Padding(

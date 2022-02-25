@@ -1,6 +1,6 @@
 {
-    "name": "stylish",
-    "short_name": "stylish",
+    "name": "GoShop",
+    "short_name": "GoShop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
